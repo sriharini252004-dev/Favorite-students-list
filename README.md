@@ -1,16 +1,18 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Favourite Student List – React Project
+I’m excited to share my latest React project – Favourite Student List 🎓💻
+This project is a simple React application that allows users to manage and organize their favourite students.
+✨ Key Features:
+👨‍🎓 View all students
+❤️ Add students to Favourite
+⭐ View Favourite Students
+🗑️ Remove students from Favourite
+🔄 Navigate between pages using React Router
+🧩 Reusable StudentCard component
+⚛️ React Context API for state management
+🔁 Dynamic rendering using map()
+📱 Responsive card-based UI
+🛠️ Technologies Used: React | JavaScript | HTML | CSS | React Router DOM | Vite
+📚 What I Learned: Through this project, I gained practical experience in React components, props, React Router, Context API, state management, reusable components, and responsive design.
+🔗 GitHub: [Your GitHub Repository Link]
+🌐 Live Demo: [Your Live Demo Link]
+I’m continuing to improve my skills and build more projects as I progress in my Full Stack Development journey. 🚀
