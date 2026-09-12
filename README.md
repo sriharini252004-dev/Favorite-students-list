@@ -18,6 +18,6 @@ This project is a simple React application that allows users to manage and organ
 🛠️ Technologies Used: React | JavaScript | HTML | CSS | React Router DOM | Vite
 
 🔗 GitHub: [https://github.com/sriharini252004-dev/Favorite-students-list.git]
-🌐 Live Demo: [https://vercel.com/new/image-gallery2]
+🌐 Live Demo: [https://favorite-students-list-ccfqa053s-image-gallery2.vercel.app]
 
 I’m continuing to improve my skills and build more projects as I progress in my Full Stack Development journey. 🚀
